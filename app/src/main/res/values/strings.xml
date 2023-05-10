@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="title">Welcome to Kat Cafe</string>
+    <string name="name">Name:</string>
+    <string name="etName">Enter Name of Reservation</string>
+    <string name="mobile_number">Mobile Number:</string>
+    <string name="etNumber">Enter Mobile Number for Contact</string>
+    <string name="group">Group Size:</string>
+    <string name="etGroup">Enter Pax for Reservation</string>
+    <string name="date">Date of Reservation:</string>
+    <string name="time">Time of Reservation:</string>
+    <string name="seating">Seating:</string>
+    <string name="smoking">Smoking</string>
+    <string name="non_smoking">Non-Smoking</string>
+    <string name="book">Book</string>
+    <string name="reset">Reset</string>
+</resources>
